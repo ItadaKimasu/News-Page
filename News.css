@@ -9,7 +9,7 @@ font-family: 'chaney', sans-serif; */
 }
 @font-face {
     font-family: chaney;
-    src: url(_MTOFONT/MTO\ CHANEY.TTF);
+    src: url(_MTOFONT/MTO-CHANEY.TTF);
 }
 * {
     scroll-behavior: smooth;
